@@ -24,6 +24,7 @@ function setup() {
    imageMode(CENTER);
 }
 
+// make a change
 
 function draw() {
    background(0);
